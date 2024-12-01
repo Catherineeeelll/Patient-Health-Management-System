@@ -1,1 +1,10 @@
+Health Report for 张明 (ID: P001)
+--------------------------------------------------
+Age: 45 | Gender: M
+Height: 175.0 cm | Weight: 70.0 kg
+BMI: 22.86 (Normal weight)
+Blood Pressure: 120/80 (Elevated)
+Blood Sugar: 5.6 mmol/L
+Cholesterol: 4.2 mmol/L
+Check Date: 2024-01-15
 
